@@ -14,7 +14,7 @@ header {
 	top: 25px;
 }
 
-.landing-page {
+#landing-page {
 	background-image: url("images/beach.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
